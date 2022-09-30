@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="St-Pauls:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/St_Pauls_jar</output-path>
+    <root id="archive" name="St-Pauls.jar">
+      <element id="module-output" name="St-Pauls" />
+    </root>
+  </artifact>
+</component>
